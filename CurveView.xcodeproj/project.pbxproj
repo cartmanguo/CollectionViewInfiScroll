@@ -12,6 +12,17 @@
 		257CB1081C857D97004E711C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 257CB1061C857D97004E711C /* Main.storyboard */; };
 		257CB10A1C857D97004E711C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 257CB1091C857D97004E711C /* Assets.xcassets */; };
 		257CB10D1C857D97004E711C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 257CB10B1C857D97004E711C /* LaunchScreen.storyboard */; };
+		257CB1151C857E24004E711C /* CurveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 257CB1141C857E24004E711C /* CurveView.swift */; };
+		257CB1171C858453004E711C /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 257CB1161C858453004E711C /* bg.jpg */; };
+		257CB1191C858765004E711C /* CoverCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 257CB1181C858765004E711C /* CoverCell.swift */; };
+		257CB1201C858AFA004E711C /* ds.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 257CB11A1C858AFA004E711C /* ds.jpg */; };
+		257CB1211C858AFA004E711C /* fc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 257CB11B1C858AFA004E711C /* fc.jpg */; };
+		257CB1221C858AFA004E711C /* sf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 257CB11C1C858AFA004E711C /* sf.jpg */; };
+		257CB1231C858AFA004E711C /* fo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 257CB11D1C858AFA004E711C /* fo.jpg */; };
+		257CB1241C858AFA004E711C /* bb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 257CB11E1C858AFA004E711C /* bb.jpg */; };
+		257CB1251C858AFA004E711C /* nr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 257CB11F1C858AFA004E711C /* nr.jpg */; };
+		257CB1271C858B1C004E711C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 257CB1261C858B1C004E711C /* Model.swift */; };
+		257CB1291C8592A9004E711C /* ZoomLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 257CB1281C8592A9004E711C /* ZoomLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		257CB1091C857D97004E711C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		257CB10C1C857D97004E711C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		257CB10E1C857D97004E711C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		257CB1141C857E24004E711C /* CurveView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurveView.swift; sourceTree = "<group>"; };
+		257CB1161C858453004E711C /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
+		257CB1181C858765004E711C /* CoverCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoverCell.swift; sourceTree = "<group>"; };
+		257CB11A1C858AFA004E711C /* ds.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ds.jpg; sourceTree = "<group>"; };
+		257CB11B1C858AFA004E711C /* fc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fc.jpg; sourceTree = "<group>"; };
+		257CB11C1C858AFA004E711C /* sf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sf.jpg; sourceTree = "<group>"; };
+		257CB11D1C858AFA004E711C /* fo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fo.jpg; sourceTree = "<group>"; };
+		257CB11E1C858AFA004E711C /* bb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bb.jpg; sourceTree = "<group>"; };
+		257CB11F1C858AFA004E711C /* nr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nr.jpg; sourceTree = "<group>"; };
+		257CB1261C858B1C004E711C /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		257CB1281C8592A9004E711C /* ZoomLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZoomLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +79,18 @@
 				257CB1021C857D97004E711C /* AppDelegate.swift */,
 				257CB1041C857D97004E711C /* ViewController.swift */,
 				257CB1061C857D97004E711C /* Main.storyboard */,
+				257CB1181C858765004E711C /* CoverCell.swift */,
+				257CB1281C8592A9004E711C /* ZoomLayout.swift */,
+				257CB1261C858B1C004E711C /* Model.swift */,
+				257CB1141C857E24004E711C /* CurveView.swift */,
 				257CB1091C857D97004E711C /* Assets.xcassets */,
+				257CB11A1C858AFA004E711C /* ds.jpg */,
+				257CB11B1C858AFA004E711C /* fc.jpg */,
+				257CB11C1C858AFA004E711C /* sf.jpg */,
+				257CB11D1C858AFA004E711C /* fo.jpg */,
+				257CB11E1C858AFA004E711C /* bb.jpg */,
+				257CB11F1C858AFA004E711C /* nr.jpg */,
+				257CB1161C858453004E711C /* bg.jpg */,
 				257CB10B1C857D97004E711C /* LaunchScreen.storyboard */,
 				257CB10E1C857D97004E711C /* Info.plist */,
 			);
@@ -125,6 +158,13 @@
 			files = (
 				257CB10D1C857D97004E711C /* LaunchScreen.storyboard in Resources */,
 				257CB10A1C857D97004E711C /* Assets.xcassets in Resources */,
+				257CB1241C858AFA004E711C /* bb.jpg in Resources */,
+				257CB1201C858AFA004E711C /* ds.jpg in Resources */,
+				257CB1211C858AFA004E711C /* fc.jpg in Resources */,
+				257CB1171C858453004E711C /* bg.jpg in Resources */,
+				257CB1251C858AFA004E711C /* nr.jpg in Resources */,
+				257CB1221C858AFA004E711C /* sf.jpg in Resources */,
+				257CB1231C858AFA004E711C /* fo.jpg in Resources */,
 				257CB1081C857D97004E711C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,7 +176,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				257CB1271C858B1C004E711C /* Model.swift in Sources */,
+				257CB1151C857E24004E711C /* CurveView.swift in Sources */,
+				257CB1191C858765004E711C /* CoverCell.swift in Sources */,
 				257CB1051C857D97004E711C /* ViewController.swift in Sources */,
+				257CB1291C8592A9004E711C /* ZoomLayout.swift in Sources */,
 				257CB1031C857D97004E711C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -249,6 +293,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CurveView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = viper.corp.CurveView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -260,6 +305,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CurveView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = viper.corp.CurveView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -285,6 +331,7 @@
 				257CB1131C857D97004E711C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
